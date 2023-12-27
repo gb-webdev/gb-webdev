@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [graham-blundel-portfolio.web.app](graham-blundel-portfolio.web.app)
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **blundell.gp@gmail.com**
 
 - 📄 Know about my experiences [https://coral-rubie-47.tiiny.site/](https://coral-rubie-47.tiiny.site/)
