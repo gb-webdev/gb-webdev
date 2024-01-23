@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Graham</h1>
-<h3 align="center">A passionate frontend developer in San Diego</h3>
+<h3 align="center">A passionate Full-Stack developer in San Diego</h3>
 
 - 🌱 I’m currently learning **C++ and Python**
 
