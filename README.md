@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Graham</h1>
 <h3 align="center">A passionate Full-Stack developer in San Diego</h3>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> and 
 
 - My biggest project so far [Quizard](https://quizard-u7md.onrender.com/)
 
@@ -12,6 +12,8 @@
 - 📄 Know about my experiences [https://coral-rubie-47.tiiny.site/](https://coral-rubie-47.tiiny.site/)
 
 - ⚡ Fun facts **I'm an avid gamer and a musician**
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
