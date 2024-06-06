@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Graham</h1>
 <h3 align="center">A passionate Full-Stack developer in San Diego</h3>
 
-- 🌱 I’m currently learning <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> and 
+- 🌱 I’m currently learning C and Python and Low Level Operations in the Harvard CS50 course
 
-- My biggest project so far [Quizard](https://quizard-u7md.onrender.com/)
+- 💥 My biggest project so far [Quizard](https://quizard-u7md.onrender.com/)
 
 - 👨‍💻 All of my projects are available at [graham-blundel-portfolio.web.app](graham-blundel-portfolio.web.app)
 
