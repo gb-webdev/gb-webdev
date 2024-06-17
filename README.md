@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **blundell.gp@gmail.com**
 
-- 📄 Know about my experiences [https://coral-rubie-47.tiiny.site/](https://coral-rubie-47.tiiny.site/)
+- 📄 Know about my experiences [https://graham-blundell-cv.tiiny.site/](https://graham-blundell-cv.tiiny.site/)
 
 - ⚡ Fun facts **I'm an avid gamer and a musician**
 
@@ -24,15 +24,15 @@
 
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" width="40" height="40"/>
-  <img src="[https://cdn-icons-png.flaticon.com/128/5968/5968292.png](https://cdn-icons-png.flaticon.com/128/5968/5968322.png)" alt="node" width="40" height="40"/>
-  <img src="[https://cdn-icons-png.flaticon.com/128/5968/5968292.png](https://cdn-icons-png.flaticon.com/128/5968/5968381.png)" alt="typescript" width="40" height="40"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" alt="node" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>    <img src="[https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg](https://cdn-icons-png.flaticon.com/128/4492/4492311.png)" alt="mssql" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="mssql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
