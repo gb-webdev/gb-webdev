@@ -5,11 +5,11 @@
 
 - 💥 My biggest project so far [Quizard](https://quizard-u7md.onrender.com/)
 
-- 👨‍💻 All of my projects are available at [graham-blundel-portfolio.web.app](https://graham-blundel-portfolio.web.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://graham-blundel-portfolio.web.app)
 
 - 📫 How to reach me **blundell.gp@gmail.com**
 
-- 📄 Know about my experiences [https://graham-blundell-cv.tiiny.site/](https://graham-blundell-cv.tiiny.site/)
+- 📄 Know about my experiences [My Resume](https://graham-blundell-cv.tiiny.site/)
 
 - ⚡ Fun facts **I'm an avid gamer and a musician**
 
