@@ -5,7 +5,7 @@
 
 - 💥 My biggest project so far [Quizard](https://quizard-u7md.onrender.com/)
 
-- 👨‍💻 All of my projects are available at [graham-blundel-portfolio.web.app](graham-blundel-portfolio.web.app)
+- 👨‍💻 All of my projects are available at [graham-blundel-portfolio.web.app](https://graham-blundel-portfolio.web.app)
 
 - 📫 How to reach me **blundell.gp@gmail.com**
 
