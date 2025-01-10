@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently a developer at Hapnyn.
 
-- 💥 My biggest project so far [Quizard](https://quizard-u7md.onrender.com/)
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://graham-blundel-portfolio.web.app)
 
 - 📫 How to reach me **blundell.gp@gmail.com**
