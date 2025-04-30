@@ -24,12 +24,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/deepset-ai/haystack-integrations/main/logos/neo4j.png" alt="neo4j" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="40" height="40"/>
-  <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon-thumbnail.png" alt="node" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-rails-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945108.png" alt="rails" width="60" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="node" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-rails-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945108.png" alt="rails" width="80" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" alt="typescript" width="40" height="40"/>
-  <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="tailwind" width="80" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="tailwind" width="60" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/128/4492/4492311.png" alt="mssql" width="40" height="40"/>
