@@ -21,19 +21,19 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Neo4j-logo2024color.png" alt="neo4j" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon-thumbnail.png" alt="node" width="40" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/rails-icon-1024x361-bomj1j1y.png" alt="rails" width="80" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="node" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="tailwind" width="80" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="bootstrap" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>    <img src="https://cdn-icons-png.flaticon.com/128/4492/4492311.png" alt="mssql" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/4492/4492311.png" alt="mssql" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 
 ![Graham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gb-webdev&theme=noctis_minimus&_show_icons=true)
